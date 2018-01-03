@@ -6,7 +6,7 @@ The shortcut keys are `tl` (move current tab to the right) and `th` (move curren
 
 ## Installation
 
-Using pathogen:
+Using [pathogen](https://github.com/tpope/vim-pathogen):
 ```sh
     cd ~/.vim/bundle
     git clone git@github.com:yever/vim-movetabs.git
